@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel-- tian system
+                    Laravel-- tian system1
                 </div>
 
                 <div class="links">
