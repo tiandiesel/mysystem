@@ -9,6 +9,7 @@ class IndexController extends Controller
 {
   public function Index(){
     echo 'home';
-    // return view('home/index');
+    return view('home.index');
+
   }
 }
